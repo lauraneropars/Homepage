@@ -1,0 +1,86 @@
+<style>
+
+html, body {
+ margin: 0;
+ padding: 0%;
+ text-align: center;
+ }
+
+body {
+ background-color: rgb(47,49,54); 
+ font-family: 'Montserrat', sans-serif;
+ font-size: 100%;
+ text-align: center;
+ }
+
+h1 {
+    font-size: 200%; 
+    color: white; 
+    }
+h2 {
+    font-size: 100%; 
+    color: beige; 
+    }
+p {
+    color: white;
+    }
+
+.img-circle img {
+    border-radius: 50%;
+    width: 128px;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+}  
+
+.card-lighter {
+    background-color: rgb(21, 21, 22);
+    padding: 30px;
+    border-radius: 10px;
+    margin: 16px auto;
+    margin-bottom: 20px;
+}
+
+.text-margin {
+    font-weight: 200;
+    font-size: 14px;
+}
+
+.button-text {
+    background-color: rbg(47, 49, 54);
+    color: rbg(0, 0, 87);
+    font-weight:500;
+    padding:8px 16px;
+}
+
+.card-lighter-two {
+    background-color: rgb(21, 21, 22);
+    padding: 30px;
+    border-radius: 10px;
+    margin: 16px auto;
+    margin-bottom: 20px;
+}
+
+.text-margin-two {
+    color: rgb(219, 199, 16)
+} 
+
+.survol-logo {
+    padding: 0px 20x;
+}
+
+a:link {
+ color: rgb(219, 199, 16);
+ text-decoration:none;
+ }
+a:visited {
+ color: white;
+ }
+a:hover {
+    color: rgb(219, 199, 16);
+}
+a:active, a:focus {
+    color: rgb(219, 199, 16);
+}
